@@ -88,7 +88,7 @@ public class Principal {
         System.out.println("* ░░▒▒▓▓██ Bienvenido al Conversor de Monedas - JDSR ██▓▓▒▒░░ *");
         System.out.println("* *");
         System.out.println("********************************************************");
-        System.out.println("* Seleccione la moneda que desea Convertir:*");
+        System.out.println("* Seleccione la Moneda que desea Convertir:*");
         System.out.println("* 1.Dolar a Sol Peruano *");
         System.out.println("* 2. Sol Peruano a Dolar *");
         System.out.println("* 3.Peso Argentino a Dolar *");
